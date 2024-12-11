@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017827542373",
+    "project_id": "radhe-developers-50f3e",
+    "storage_bucket": "radhe-developers-50f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017827542373:android:55011d2bbda12bbd6e0d8c",
+        "android_client_info": {
+          "package_name": "com.radhe.developers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkZ1ApT549vhXySocaB2lOIRbWUIN3sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
